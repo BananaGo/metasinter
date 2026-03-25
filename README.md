@@ -1,6 +1,6 @@
 # metasinter
 
-`metasinter` is a Go command-line utility for sampling or synchronizing metadata from one source to another.
+`metasinter` is a Go command-line utility for running msfconsole in a pseudo termainl as a http-api
 
 ## Project structure
 
